@@ -1,3 +1,13 @@
 *.parquet
 mlruns
+mlartifacts
+*.db
+*.sqlite
+*.csv
+*.json
+*.log
+*.tmp
+*yml
+*.pkl
 00-data*
+02-experiment-tracking/Experiment Tracking - MLOps Zoomcamp.pdf

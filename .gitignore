@@ -1,0 +1,3 @@
+*.parquet
+mlruns
+00-data*

@@ -11,3 +11,6 @@ mlartifacts
 *.pkl
 00-data*
 02-experiment-tracking/Experiment Tracking - MLOps Zoomcamp.pdf
+*.DS_Store
+*__pycache__*
+*.b
